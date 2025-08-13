@@ -20,6 +20,6 @@ git merge origin/main -m "Merge remoto automático (${data_hora})" || {
 }
 
 echo "🚀 Enviando para o repositório remoto..."
-git push origin main #--force
+git push origin main --force
 
 echo "✅ Tudo sincronizado com sucesso!"
