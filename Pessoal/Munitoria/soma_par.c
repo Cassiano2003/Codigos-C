@@ -6,7 +6,7 @@ int soma_par(int num){
         return 0;
     }else{
         if(num%2 == 0){
-            return num + soma_par(num-1);
+            return num + soma_par(num-2);
         }else{
             return soma_par(num-1);
         }
