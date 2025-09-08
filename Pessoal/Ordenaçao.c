@@ -10,6 +10,7 @@ void troca(int *xp, int *yp) {
     *xp = *yp;
     *yp = temp;
 }
+
 void imprecoes(int controle){
     switch (controle){
     case 1:
