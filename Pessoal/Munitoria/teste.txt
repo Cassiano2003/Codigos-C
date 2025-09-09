@@ -1,0 +1,11 @@
+2
+A E B D E A B D E D A E B D E A B D E D
+A E B D E A B D E D A E B D E A B D E D
+2
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+3
+A C B D E A F D E D A E B D E A B D E D
+A E B D E A B D E D C C C C C C C C C C
+A E B D E A B D E D A E B D E A B D E D
+0
