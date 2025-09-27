@@ -1,0 +1,36 @@
+Media da escola é: 7.07
+Turma 1
+Ana 3001 7.75
+Carla 3003 8.75
+Elisa 3005 7.50
+Gina 3007 7.25
+
+Turma 2
+Iris 4001 9.25
+Leo 4004 8.25
+Nina 4006 8.50
+Quica 4009 8.25
+
+Turma 3
+Sara 5002 8.50
+Vera 5005 8.25
+Xuxa 5007 7.50
+Yuri 5008 9.00
+Amy 5010 8.25
+
+Turma 4
+Beto 6001 7.50
+Dan 6003 7.50
+Ela 6004 8.50
+Helga 6007 8.75
+Jade 6009 7.75
+Luiz 6011 9.00
+
+Turma 5
+Omar 7003 8.25
+Quin 7005 8.75
+Rui 7006 7.50
+Teo 7008 8.50
+Vini 7010 7.50
+Wen 7011 9.25
+

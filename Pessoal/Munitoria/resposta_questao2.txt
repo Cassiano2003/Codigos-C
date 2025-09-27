@@ -1,0 +1,11 @@
+Media total da turma: 6
+Alunos com media maior que a da sala
+Ana 2001 7.75
+Carla 2003 8.75
+Elisa 2005 7.50
+Gina 2007 7.25
+Iris 2009 9.25
+Karen 2011 7.25
+Leo 2012 8.25
+Nina 2014 8.50
+Otto 2015 6.75
