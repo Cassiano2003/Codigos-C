@@ -1,0 +1,156 @@
+5
+8
+Ana Beatriz Souza
+3001 7.5 8.0
+
+Bruno Henrique Lima
+3002 5.0 6.0
+
+Carla Maria Ferreira
+3003 9.0 8.5
+
+Diego Almeida Santos
+3004 6.0 5.5
+
+Elisa Martins Rocha
+3005 8.0 7.0
+
+Fabio Oliveira Costa
+3006 4.0 6.0
+
+Gina Castro Mendes
+3007 7.0 7.5
+
+Hugo Henrique Barbosa
+3008 5.5 6.0
+
+9
+Iris Costa Lima
+4001 9.0 9.5
+
+Jonas Augusto Ribeiro
+4002 6.0 6.0
+
+Karen Mendes Alves
+4003 7.5 7.0
+
+Leo Eduardo Rocha
+4004 8.5 8.0
+
+Marta Cardoso Pinto
+4005 5.0 4.5
+
+Nina Pires Souza
+4006 9.0 8.0
+
+Otto Luiz Carvalho
+4007 6.5 7.0
+
+Paulo Henrique Gomes
+4008 7.0 6.5
+
+Quica Fernanda Lima
+4009 8.0 8.5
+
+10
+Rafa Silva Costa
+5001 7.0 7.0
+
+Sara Beatriz Lima
+5002 8.0 9.0
+
+Tomás Oliveira Santos
+5003 5.0 6.0
+
+Uma Martins Rocha
+5004 6.5 7.0
+
+Vera Alves Pinto
+5005 8.5 8.0
+
+Will Henrique Souza
+5006 4.5 5.0
+
+Xuxa Fernanda Castro
+5007 7.5 7.5
+
+Yuri Eduardo Gomes
+5008 9.0 9.0
+
+Zeca Antônio Rocha
+5009 6.0 5.5
+
+Amy Beatriz Lima
+5010 8.0 8.5
+
+11
+Beto Silva Costa
+6001 7.5 7.5
+
+Ceci Almeida Rocha
+6002 6.0 6.0
+
+Dan Oliveira Santos
+6003 8.0 7.0
+
+Ela Beatriz Lima
+6004 9.0 8.0
+
+Fernanda Alves Pinto
+6005 5.5 5.0
+
+Gui Henrique Souza
+6006 7.0 6.5
+
+Helga Fernanda Castro
+6007 8.5 9.0
+
+Ivan Eduardo Gomes
+6008 6.5 7.5
+
+Jade Beatriz Lima
+6009 7.5 8.0
+
+Kaio Antônio Rocha
+6010 5.0 4.5
+
+Luiz Henrique Pinto
+6011 9.0 9.0
+
+12
+Mai Beatriz Costa
+7001 6.5 7.0
+
+Nick Eduardo Lima
+7002 7.0 6.0
+
+Omar Henrique Santos
+7003 8.5 8.0
+
+Pia Fernanda Rocha
+7004 5.0 6.5
+
+Quin Beatriz Pinto
+7005 9.0 8.5
+
+Rui Henrique Souza
+7006 7.5 7.5
+
+Sol Eduardo Castro
+7007 4.5 5.0
+
+Teo Beatriz Gomes
+7008 8.0 9.0
+
+Ula Fernanda Lima
+7009 6.0 6.0
+
+Vini Henrique Rocha
+7010 7.0 8.0
+
+Wen Beatriz Pinto
+7011 9.0 9.5
+
+Xim Eduardo Costa
+7012 5.5 6.0
+
